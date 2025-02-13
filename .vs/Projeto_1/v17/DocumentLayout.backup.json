@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\passos\\C#2\\Projeto_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|d:\\passos\\c#2\\projeto_1\\projeto_1\\produto\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\produto\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|D:\\passos\\C#2\\Projeto_1\\projeto_1\\produto\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\produto\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|D:\\passos\\C#2\\Projeto_1\\projeto_1\\produto\\produtofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\produto\\produtofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|D:\\passos\\C#2\\Projeto_1\\projeto_1\\produto\\iestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\produto\\iestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|D:\\passos\\C#2\\Projeto_1\\projeto_1\\produto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\produto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|D:\\passos\\C#2\\Projeto_1\\projeto_1\\funcoes\\exibicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\funcoes\\exibicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|D:\\passos\\C#2\\Projeto_1\\projeto_1\\funcoes\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\funcoes\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|D:\\passos\\C#2\\Projeto_1\\projeto_1\\funcoes\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\funcoes\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|D:\\passos\\C#2\\Projeto_1\\projeto_1\\funcoes\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\funcoes\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|D:\\passos\\C#2\\Projeto_1\\projeto_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226C7B8C-DC92-4BD5-9B8B-4BF874AC5F63}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\produto\\Curso.cs",
+              "RelativeDocumentMoniker": "Projeto_1\\produto\\Curso.cs",
+              "ToolTip": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\produto\\Curso.cs",
+              "RelativeToolTip": "Projeto_1\\produto\\Curso.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:28:58.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exibicao.cs",
+              "DocumentMoniker": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\funcoes\\Exibicao.cs",
+              "RelativeDocumentMoniker": "Projeto_1\\funcoes\\Exibicao.cs",
+              "ToolTip": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\funcoes\\Exibicao.cs",
+              "RelativeToolTip": "Projeto_1\\funcoes\\Exibicao.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwHEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T20:50:15.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\funcoes\\Lista.cs",
+              "RelativeDocumentMoniker": "Projeto_1\\funcoes\\Lista.cs",
+              "ToolTip": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\funcoes\\Lista.cs",
+              "RelativeToolTip": "Projeto_1\\funcoes\\Lista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T19:37:41.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\funcoes\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Projeto_1\\funcoes\\Cadastro.cs",
+              "ToolTip": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\funcoes\\Cadastro.cs",
+              "RelativeToolTip": "Projeto_1\\funcoes\\Cadastro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:54:25.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoFisico.cs",
+              "DocumentMoniker": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\produto\\ProdutoFisico.cs",
+              "RelativeDocumentMoniker": "Projeto_1\\produto\\ProdutoFisico.cs",
+              "ToolTip": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\produto\\ProdutoFisico.cs",
+              "RelativeToolTip": "Projeto_1\\produto\\ProdutoFisico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:21:08.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menus.cs",
+              "DocumentMoniker": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\funcoes\\Menus.cs",
+              "RelativeDocumentMoniker": "Projeto_1\\funcoes\\Menus.cs",
+              "ToolTip": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\funcoes\\Menus.cs",
+              "RelativeToolTip": "Projeto_1\\funcoes\\Menus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:33:40.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEstoque.cs",
+              "DocumentMoniker": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\produto\\IEstoque.cs",
+              "RelativeDocumentMoniker": "Projeto_1\\produto\\IEstoque.cs",
+              "ToolTip": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\produto\\IEstoque.cs",
+              "RelativeToolTip": "Projeto_1\\produto\\IEstoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:22:59.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ebook.cs",
+              "DocumentMoniker": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\produto\\Ebook.cs",
+              "RelativeDocumentMoniker": "Projeto_1\\produto\\Ebook.cs",
+              "ToolTip": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\produto\\Ebook.cs",
+              "RelativeToolTip": "Projeto_1\\produto\\Ebook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:25:51.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\produto\\Produto.cs",
+              "RelativeDocumentMoniker": "Projeto_1\\produto\\Produto.cs",
+              "ToolTip": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\produto\\Produto.cs",
+              "RelativeToolTip": "Projeto_1\\produto\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:19:02.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto_1\\Program.cs",
+              "ToolTip": "D:\\passos\\C#2\\Projeto_1\\Projeto_1\\Program.cs",
+              "RelativeToolTip": "Projeto_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T23:26:53.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
