@@ -22,7 +22,7 @@ namespace Projeto_1.produto
         {
             Console.Clear();
 
-            Console.WriteLine($"Adicionar entrada no estoque do produto: '{Nome}'");
+            Console.WriteLine($"Adicionar entrada no estoque do produto especificado: '{Nome}'");
             Console.WriteLine("Digite a quantidade de vagas que voce quer dar entrada:");
             int entrada;
             bool entradaValida = false;
